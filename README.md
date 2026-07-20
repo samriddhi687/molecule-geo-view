@@ -1,5 +1,5 @@
  🧪 Molecular Geometry Viewer
-This project helps us to visualize molecules in 3D using data from `.xyz` files.  
+-This project helps us to visualize molecules in 3D using data from `.xyz` files.  
 This script reads atomic coordinates from an XYZ file and displays the molecular geometry with labeled atoms in a 3D scatter plot.
 ---
 ## 📂 Features
